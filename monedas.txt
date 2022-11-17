@@ -1,0 +1,14 @@
+Numero de moneda: 0 Nombre de la moneda:   ID de la moneda:   Precio de la moneda: 0
+Numero de moneda: 1 Nombre de la moneda: Bitcoin ID de la moneda:  BTH Precio de la moneda: 20
+Numero de moneda: 1 Nombre de la moneda: Bitcoin ID de la moneda:  BTH Precio de la moneda: 20
+Numero de moneda: 1 Nombre de la moneda: Bitcoin ID de la moneda:  BTH Precio de la moneda: 20
+Numero de moneda: 1 Nombre de la moneda: Bitcoin ID de la moneda:  BTH Precio de la moneda: 20
+Numero de moneda: 1 Nombre de la moneda: Bitcoin ID de la moneda:  BTH Precio de la moneda: 20
+Numero de moneda: 1 Nombre de la moneda: Bitcoin ID de la moneda:  BTH Precio de la moneda: 20
+Numero de moneda: 1 Nombre de la moneda: Bitcoin ID de la moneda:  BTH Precio de la moneda: 20
+Numero de moneda: 1 Nombre de la moneda: Bitcoin ID de la moneda:  BTH Precio de la moneda: 20
+Numero de moneda: 1 Nombre de la moneda: Bitcoin ID de la moneda:  BTH Precio de la moneda: 20
+Numero de moneda: 1 Nombre de la moneda: Bitcoin ID de la moneda:  BTH Precio de la moneda: 20
+Numero de moneda: 1 Nombre de la moneda: Bitcoin ID de la moneda:  BTH Precio de la moneda: 20
+Numero de moneda: 0 Nombre de la moneda:   ID de la moneda:   Precio de la moneda: 0
+Numero de moneda: 1 Nombre de la moneda: Bitcoin ID de la moneda:  BTH Precio de la moneda: 0
