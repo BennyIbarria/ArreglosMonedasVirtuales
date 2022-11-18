@@ -9,9 +9,11 @@ namespace DPRN2_U3_A2_JOIT
         {
            //Creamos un nuevo objeto de la clase MonedaVirtual
            MonedaVirtual nvaMoneda = new MonedaVirtual(); 
+           MonedaVirtual[] listaMonedas = new MonedaVirtual[10];       
            
-           //Llamamos al metodo Menu y accedemos a toda la clase MonedaVirtual
            nvaMoneda.GuardarInformacion();
+           nvaMoneda.realizarCompra(listaMonedas);
+           
         }
     }
 }

@@ -13,6 +13,7 @@ namespace DPRN2_U3_A2_JOIT
      private float cantidadMonedas;
      //Creacion del nuevo atributo de tipo privado fechaPrecio
      private DateTime fechaPrecio;
+     private string nuevaMoneda;
     
      //Declaramos las propiedades para los atributos de la clase MonedaVirtual
         public int Numero
@@ -50,6 +51,11 @@ namespace DPRN2_U3_A2_JOIT
         {
             get { return fechaPrecio; }
             set { fechaPrecio = value; }
+        }
+        public string NuevaMoneda 
+        { 
+            get{return nuevaMoneda;} 
+            set{nuevaMoneda=value;} 
         }
         
         
@@ -166,8 +172,10 @@ namespace DPRN2_U3_A2_JOIT
                 GuardarInformacion();
                 break;
                 case 3:
-               //Opcion para realizar compra de monedas virtuales
-                      
+                //invocar el metodo realizarCompra
+                //realizarCompra();
+               
+                         
                                 
                 break;
                 case 4:
@@ -186,5 +194,6 @@ namespace DPRN2_U3_A2_JOIT
             }
         }
 
+        
     }
 }
